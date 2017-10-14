@@ -1,2 +1,2 @@
 # RomanCalculator
-This project is for test assignment 2017-10-14
+This private sample project of roman calculator (2017-10-14)
