@@ -177,13 +177,4 @@
     </LinearLayout>
 
 
-    <TextView
-        android:textSize="@dimen/textview_text_size_small"
-        android:gravity="center_horizontal"
-        android:layout_margin="@dimen/textview_padding"
-        android:layout_gravity="bottom|center"
-        android:text="This application is only SCB test assignment\nfor android developer position\nby Taychit Pokasap"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
 </LinearLayout>
